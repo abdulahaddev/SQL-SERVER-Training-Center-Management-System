@@ -9,22 +9,22 @@
 
 ``` sql
 /*
-					SQL Project Name : Training Center Management System(TCMS)
-							      By : Abdul Ahad   
+SQL Project Name : Training Center Management System(TCMS)
+			  By : Abdul Ahad   
 
- --------------------------------------------------------------------------------
+ -------------------------------
 
 Table of Contents: DDL
-			=> SECTION 01: Created a Database [TCMS]
-			=> SECTION 02: Created Appropriate Tables with column definition related to the project
-			=> SECTION 03: ALTER, DROP AND MODIFY TABLES & COLUMNS
-			=> SECTION 04: CREATE CLUSTERED AND NONCLUSTERED INDEX
-			=> SECTION 05: CREATE SEQUENCE & ALTER SEQUENCE
-			=> SECTION 06: CREATE A VIEW & ALTER VIEW
-			=> SECTION 07: STORED STORED PROCEDURE & ALTER STORED PROCEDURE
-			=> SECTION 08: CREATE FUNCTION(SCALAR, SIMPLE TABLE VALUED, MULTISTATEMENT TABLE VALUED) & ALTER FUNCTION
-			=> SECTION 09: CREATE TRIGGER (FOR/AFTER TRIGGER)
-			=> SECTION 10: CREATE TRIGGER (INSTEAD OF TRIGGER)
+	=> SECTION 01: Created a Database [TCMS]
+	=> SECTION 02: Created Appropriate Tables with column definition related to the project
+	=> SECTION 03: ALTER, DROP AND MODIFY TABLES & COLUMNS
+	=> SECTION 04: CREATE CLUSTERED AND NONCLUSTERED INDEX
+	=> SECTION 05: CREATE SEQUENCE & ALTER SEQUENCE
+	=> SECTION 06: CREATE A VIEW & ALTER VIEW
+	=> SECTION 07: STORED STORED PROCEDURE & ALTER STORED PROCEDURE
+	=> SECTION 08: CREATE FUNCTION(SCALAR, SIMPLE TABLE VALUED, MULTISTATEMENT TABLE VALUED) & ALTER FUNCTION
+	=> SECTION 09: CREATE TRIGGER (FOR/AFTER TRIGGER)
+	=> SECTION 10: CREATE TRIGGER (INSTEAD OF TRIGGER)
 */
 
 
@@ -62,7 +62,6 @@ GO
 
 USE TCMS
 GO
-
 
 /*
 ==============================  SECTION 02  ==============================
